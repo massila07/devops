@@ -27,5 +27,5 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest tests/
+        pytest 
         echo "All tests passed successfully!"
